@@ -364,6 +364,7 @@ header {
           padding: 30px;
           margin-right: 30px;
           border-radius: 10px;
+
           .padding-siu {
             padding: 20px;
           }
@@ -406,6 +407,9 @@ header {
               background-color: #7972f1;
               border-radius: 5px;
               box-shadow: 0 0 10px #7972f1;
+              // :hover{
+              //   background-color: aqua;
+              // }
             }
           }
           .bg-flex {
